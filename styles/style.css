@@ -9,7 +9,7 @@ html{
         font-size: 60px;
         margin: 0;
         padding: 20px 0;
-        color: #00539F;
+        color: #4d9f00;
         text-shadow: 3px 3px 1px black;
         text-align: center;
       }
@@ -28,7 +28,7 @@ html{
       body {
         width: 600px;
         margin: 0 auto;
-        background-color: #FF9500;
+        background-color: #f700ff;
         padding: 0 20px 20px 20px;
         border: 5px solid black;
       }
